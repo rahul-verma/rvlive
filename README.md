@@ -1,11 +1,19 @@
-# MISSION
-    I want to concatenate two strings.
+Analyze the following stanza and identify different words, their role as well as count. 
+"Mary had a little lamb,
+Its fleece was white as snow;
+And everywhere that Mary went,
+The lamb was sure to go."
 
-# INSTRUCTIONS
-    1. Ask me "What is the first string?". Store.
-    2. Ask me "What is the second string?". Store
-    3. Concatenate using space as the delimiter.
-    4. Respond with the concatenated string as the answer.
+Display the results as per the following table markup. Extend the table to include words with other roles apart from noun and verb following the same structure.
 
-# RESPONSE FORMAT
-    1. Keep the response terse. **No Intro/Outro** please.
+| Role | Word | Count |
+| ---- | ---- | ----- |
+| Verb |      |       |
+|      |      |
+|      |      |
+| Noun |      |       |
+|      |      |
+|      |      |
+|      |      |       |
+|      |      |       |
+|      |      |       |
