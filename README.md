@@ -1,3 +1,8 @@
+I am planning a trip to Berlin. Create a 2 day itinerary with focus on visiting museums. 
+Use the following format for the itinerary.
+
+Example Itinerary:
+  
   Day 1: Arrival in Delhi & Historical Tour
   
   Morning:
