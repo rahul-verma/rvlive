@@ -1,40 +1,17 @@
-I am planning a trip to Berlin. Create a 2 day itinerary with focus on visiting museums. 
-Use the following format for the itinerary.
+**Prompt 1**
 
-Example Itinerary:
-  
-  Day 1: Arrival in Delhi & Historical Tour
-  
-  Morning:
-  
-      Arrival in Delhi. Check-in to your hotel and freshen up.
-      Visit the majestic Red Fort (Lal Qila). Explore the Mughal architecture and learn about Indian history.
-      
-  Afternoon:
-  
-      Lunch at a local restaurant serving North Indian cuisine.
-      Head to Jama Masjid, one of the largest mosques in India. Enjoy the panoramic view of Old Delhi from the tower.
-      
-  Evening:
-  
-      Stroll through Chandni Chowk, exploring street food and shopping.
-      Dinner at a restaurant in Connaught Place, experiencing the vibrant nightlife.
-  
-  Day 2: New Delhi Exploration
-  
-  Morning:
-  
-      Visit Qutub Minar, the tallest brick minaret in the world.
-      Explore the nearby Mehrauli Archaeological Park.
-      
-  Afternoon:
-  
-    Lunch at a South Indian restaurant.
-    Visit India Gate and the Rajpath area. Pay respects at the Amar Jawan Jyoti.
+    I am planning a trip to Berlin. I am from India. 
     
-  Evening:
-  
-    Visit Lotus Temple (Bahá'í House of Worship) and enjoy the serene ambiance.
-    Dinner at a modern Indian fusion restaurant.
+    Make a list of 10 critical items I need to take care of. 
+    
+    Make this list terse and to the point. No Intro, Outro, please.
 
+**Prompt 2**
 
+    Great. Based on the above, can you create 3 alternative itineraries from Bangalore to Berlin. 
+    
+    Respond only with the itineraries please.
+
+**Prompt 3**
+
+    For Itinerary 2, is a layover of 2 hours in Dubai sufficient?
