@@ -1,17 +1,11 @@
-**Prompt 1**
+# MISSION
+    I want to concatenate two strings.
 
-    I am planning a trip to Berlin. I am from India. 
-    
-    Make a list of 10 critical items I need to take care of. 
-    
-    Make this list terse and to the point. No Intro, Outro, please.
+# INSTRUCTIONS
+    1. Ask me "What is the first string?". Store.
+    2. Ask me "What is the second string?". Store
+    3. Concatenate using space as the delimiter.
+    4. Respond with the concatenated string as the answer.
 
-**Prompt 2**
-
-    Great. Based on the above, can you create 3 alternative itineraries from Bangalore to Berlin. 
-    
-    Respond only with the itineraries please.
-
-**Prompt 3**
-
-    For Itinerary 2, is a layover of 2 hours in Dubai sufficient?
+# RESPONSE FORMAT
+    1. Keep the response terse. **No Intro/Outro** please.
